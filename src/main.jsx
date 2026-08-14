@@ -67,6 +67,7 @@ function App() {
             <span>www.webbangla.com.bd</span>
             <span>webbanglatechnologies@gmail.com</span>
           </div>
+           <a href="tel:01843139511" className="font-semibold hover:text-wb-gold">www.facebook/webbangla</a>
           <a href="tel:01843139511" className="font-semibold hover:text-wb-gold">01843139511</a>
         </div>
       </div>
