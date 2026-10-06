@@ -319,11 +319,33 @@ function App() {
                   <div className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
                     <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">
-                        📍Shahapur Bazar, Chatkhil, Noakhali , Bangladesh</span></span>
+                        Shahapur Bazar, Chatkhil, Noakhali , Bangladesh</span></span>
                   </div>
                 </div>
               </div>
-
+                <dev>
+                  <div>
+                <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p>
+                <h2 className="mt-3 text-4xl font-black text-wb-navy">Lakshmipur Office</h2>
+               
+                <div className="mt-8 space-y-5"> <a href="tel:  +8801782547636" className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
+                    <span><b className="block text-wb-navy">Phone</b><span className="text-slate-600">   
+                      {/* +8801738745440 */}
+                      </span></span>
+                  </a>
+                  <a href="mailto:webbanglatechnologies@gmail.com" className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Mail size={20} /></span>
+                    <span><b className="block text-wb-navy">Email</b><span className="text-slate-600">webbanglatechnologies@gmail.com</span></span>
+                  </a>
+                  <div className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
+                    <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">
+                          Sonapur Chourasta, Ramganj, Lakshmipur , Bangladesh</span></span>
+                  </div>
+                </div>
+              </div>
+                </dev>
   
             </div>
           </div>
