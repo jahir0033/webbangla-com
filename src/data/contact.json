@@ -1,0 +1,24 @@
+{
+  "label": "Contact Us",
+  "title": "Let’s build something useful.",
+  "description": "Tell us what your organization needs. We can discuss the right software, website, network or CCTV solution for your project.",
+  "phoneLabel": "Phone",
+  "emailLabel": "Email",
+  "officeLabel": "Office",
+  "form": {
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Name",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "01XXXXXXXXX",
+    "serviceLabel": "Service",
+    "services": [
+      "Software Development",
+      "Web Development",
+      "Networking Solution",
+      "CCTV Solution"
+    ],
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your project...",
+    "button": "Send Inquiry"
+  }
+}

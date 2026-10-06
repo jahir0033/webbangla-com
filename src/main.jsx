@@ -60,15 +60,16 @@ function App() {
   ];
 
   return (
-    <div data-theme="webbangla" className="min-h-screen bg-white text-wb-ink">
-      <div className="bg-wb-navy text-white">
+    <div data-theme="webbangla" className="min-h-screen  bg-white text-wb-ink">
+      <div className="bg-wb-navy text-white border-spacing-2">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-2 px-5 py-2 text-xs sm:px-6 lg:px-8">
           <div className="flex flex-wrap gap-x-5 gap-y-1">
             <span>www.webbangla.com.bd</span>
             <span>webbanglatechnologies@gmail.com</span>
           </div>
-           <a href="tel:01843139511" className="font-semibold hover:text-wb-gold">www.facebook/webbangla</a>
-          <a href="tel:01843139511" className="font-semibold hover:text-wb-gold">01843139511</a>
+           <a href="www.facebook/webbangla" className="font-semibold hover:text-wb-gold">www.facebook/webbangla</a>
+          <a href="tel:+8801843139511" className="font-semibold hover:text-wb-gold">+8801843139511</a>
+          <a href="tel:+880181980988" className="font-semibold hover:text-wb-gold">+880181980988</a>
         </div>
       </div>
 
@@ -296,6 +297,34 @@ function App() {
                   Send Inquiry <ArrowRight size={18} />
                 </button>
               </form>
+            </div>
+          </div>
+        </section>
+        <section id="contact" className="bg-wb-soft py-20 lg:py-24">
+          <div className="mx-auto max-w-7xl px-5 sm:px-6 lg:px-8">
+            <div className="grid gap-10 lg:grid-cols-2">
+              <div>
+                <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p>
+                <h2 className="mt-3 text-4xl font-black text-wb-navy">Noakhali Office</h2>
+               
+                <div className="mt-8 space-y-5">
+                  <a href="tel: +8801782547636" className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
+                    <span><b className="block text-wb-navy">Phone</b><span className="text-slate-600">  +8801782547636</span></span>
+                  </a>
+                  <a href="mailto:webbanglatechnologies@gmail.com" className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Mail size={20} /></span>
+                    <span><b className="block text-wb-navy">Email</b><span className="text-slate-600">webbanglatechnologies@gmail.com</span></span>
+                  </a>
+                  <div className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
+                    <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">
+                        📍Shahapur Bazar, Chatkhil, Noakhali , Bangladesh</span></span>
+                  </div>
+                </div>
+              </div>
+
+  
             </div>
           </div>
         </section>

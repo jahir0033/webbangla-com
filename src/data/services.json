@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "Code2",
+    "title": "Software Development",
+    "text": "Custom business and education management software designed around your workflow.",
+    "bullets": [
+      "Web-based applications",
+      "Dashboard & reporting",
+      "Automation & integrations"
+    ]
+  },
+  {
+    "icon": "Globe2",
+    "title": "Web Development",
+    "text": "Fast, responsive and professional websites that build trust and turn visitors into customers.",
+    "bullets": [
+      "Corporate websites",
+      "School & institution websites",
+      "Modern responsive UI"
+    ]
+  },
+  {
+    "icon": "Network",
+    "title": "Networking Solution",
+    "text": "Reliable network planning, setup and maintenance for offices and educational institutions.",
+    "bullets": [
+      "LAN/Wi-Fi setup",
+      "Router & switch configuration",
+      "Network troubleshooting"
+    ]
+  },
+  {
+    "icon": "ShieldCheck",
+    "title": "CCTV Solution",
+    "text": "Complete surveillance solutions for schools, offices, shops and other organizations.",
+    "bullets": [
+      "IP & analog CCTV",
+      "NVR/DVR setup",
+      "Remote mobile monitoring"
+    ]
+  }
+]
