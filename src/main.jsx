@@ -64,12 +64,13 @@ function App() {
       <div className="bg-wb-navy text-white border-spacing-2">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-2 px-5 py-2 text-xs sm:px-6 lg:px-8">
           <div className="flex flex-wrap gap-x-5 gap-y-1">
-            <span>www.webbangla.com.bd</span>
-            <span>webbanglatechnologies@gmail.com</span>
+            {/* <span>www.webbangla.com.bd</span> */}
+            {/* <span>webbanglatechnologies@gmail.com</span> */}
+            <a href="www.facebook/webbangla" className="font-semibold hover:text-wb-gold">www.facebook/webbangla</a>
           </div>
-           <a href="www.facebook/webbangla" className="font-semibold hover:text-wb-gold">www.facebook/webbangla</a>
+           
           <a href="tel:+8801843139511" className="font-semibold hover:text-wb-gold">+8801843139511</a>
-          <a href="tel:+880181980988" className="font-semibold hover:text-wb-gold">+880181980988</a>
+          {/* <a href="tel:+880181980988" className="font-semibold hover:text-wb-gold">+880181980988</a> */}
         </div>
       </div>
 
@@ -249,10 +250,10 @@ function App() {
             <div className="grid gap-10 lg:grid-cols-2">
               <div>
                 <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p>
-                <h2 className="mt-3 text-4xl font-black text-wb-navy">Let’s build something useful.</h2>
-                <p className="mt-5 max-w-xl leading-7 text-slate-600">
+                <h2 className="mt-3 text-4xl font-black text-wb-navy">chattogram</h2>
+                {/* <p className="mt-5 max-w-xl leading-7 text-slate-600">
                   Tell us what your organization needs. We can discuss the right software, website, network or CCTV solution for your project.
-                </p>
+                </p> */}
                 <div className="mt-8 space-y-5">
                   <a href="tel:01843139511" className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
@@ -265,6 +266,10 @@ function App() {
                   <div className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
                     <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">21/A Textile Area, Nasirabad, Chattogram-4000, Bangladesh</span></span>
+                  </div>
+                  <div className="flex items-center gap-4">
+                    <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
+                    <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">Satkania Housing Society,Shah Goribullah,,GEC,Chattogram </span></span>
                   </div>
                 </div>
               </div>
@@ -304,8 +309,8 @@ function App() {
           <div className="mx-auto max-w-7xl px-5 sm:px-6 lg:px-8">
             <div className="grid gap-10 lg:grid-cols-2">
               <div>
-                <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p>
-                <h2 className="mt-3 text-4xl font-black text-wb-navy">Noakhali Office</h2>
+                {/* <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p> */}
+                <h2 className="mt-3 text-4xl font-black text-wb-navy">Noakhali</h2>
                
                 <div className="mt-8 space-y-5">
                   <a href="tel: +8801782547636" className="flex items-center gap-4">
@@ -325,13 +330,13 @@ function App() {
               </div>
                 <dev>
                   <div>
-                <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p>
+                {/* <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p> */}
                 <h2 className="mt-3 text-4xl font-black text-wb-navy">Lakshmipur Office</h2>
                
                 <div className="mt-8 space-y-5"> <a href="tel:  +8801782547636" className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
                     <span><b className="block text-wb-navy">Phone</b><span className="text-slate-600">   
-                      {/* +8801738745440 */}
+                      +8801844420074
                       </span></span>
                   </a>
                   <a href="mailto:webbanglatechnologies@gmail.com" className="flex items-center gap-4">
