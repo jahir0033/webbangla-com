@@ -269,7 +269,7 @@ function App() {
                   </div>
                   <div className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><MapPin size={20} /></span>
-                    <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">Satkania Housing Society,Shah Goribullah,,GEC,Chattogram </span></span>
+                    <span><b className="block text-wb-navy">Office</b><span className="text-slate-600">Satkania Housing Society,Goribullah Shah,,GEC,Chattogram </span></span>
                   </div>
                 </div>
               </div>
