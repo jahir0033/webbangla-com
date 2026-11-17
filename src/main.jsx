@@ -331,7 +331,7 @@ function App() {
                 <dev>
                   <div>
                 {/* <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p> */}
-                <h2 className="mt-3 text-4xl font-black text-wb-navy">Lakshmipur Office</h2>
+                <h2 className="mt-3 text-4xl font-black text-wb-navy">Lakshmipur</h2>
                
                 <div className="mt-8 space-y-5"> <a href="tel:  +8801782547636" className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
