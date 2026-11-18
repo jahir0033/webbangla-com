@@ -313,7 +313,7 @@ function App() {
                 <h2 className="mt-3 text-4xl font-black text-wb-navy">Noakhali</h2>
                
                 <div className="mt-8 space-y-5">
-                  <a href="tel: +8801782547636" className="flex items-center gap-4">
+                  <a href="tel: +8801844420074" className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
                     <span><b className="block text-wb-navy">Phone</b><span className="text-slate-600">  +8801782547636</span></span>
                   </a>
@@ -333,7 +333,7 @@ function App() {
                 {/* <p className="font-bold uppercase tracking-[.2em] text-wb-green">Contact Us</p> */}
                 <h2 className="mt-3 text-4xl font-black text-wb-navy">Lakshmipur</h2>
                
-                <div className="mt-8 space-y-5"> <a href="tel:  +8801782547636" className="flex items-center gap-4">
+                <div className="mt-8 space-y-5"> <a href="tel:  +8801844420074" className="flex items-center gap-4">
                     <span className="rounded-xl bg-white p-3 text-wb-green shadow-sm"><Phone size={20} /></span>
                     <span><b className="block text-wb-navy">Phone</b><span className="text-slate-600">   
                       +8801844420074
